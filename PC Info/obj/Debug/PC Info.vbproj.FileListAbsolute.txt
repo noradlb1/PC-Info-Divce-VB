@@ -1,0 +1,12 @@
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\bin\Debug\PC Info.exe.config
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\bin\Debug\PC Info.exe
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\bin\Debug\PC Info.pdb
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\bin\Debug\PC Info.xml
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\obj\Debug\PC Info.vbproj.AssemblyReference.cache
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\obj\Debug\PC_Info.Form1.resources
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\obj\Debug\PC_Info.Resources.resources
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\obj\Debug\PC Info.vbproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\obj\Debug\PC Info.vbproj.CoreCompileInputs.cache
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\obj\Debug\PC Info.exe
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\obj\Debug\PC Info.xml
+C:\Users\MONSTERMC\source\repos\PC Info\PC Info\obj\Debug\PC Info.pdb
