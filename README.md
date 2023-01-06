@@ -2,7 +2,7 @@
 PC-Info-Divce-VB
 
 == PC Name
-= WinOS
+- WinOS
 = Ram
 = Admin
 = CPU
