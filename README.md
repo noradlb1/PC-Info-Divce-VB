@@ -1,7 +1,7 @@
 # PC-Info-Divce-VB
 PC-Info-Divce-VB
 
-= PC Name
+== PC Name
 = WinOS
 = Ram
 = Admin
